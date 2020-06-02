@@ -10,4 +10,4 @@
 <img src="https://raw.githubusercontent.com/alphaCoder-69/a-simple-theme/master/Dark-mode.jpg">
 <p>LIGHT THEME--</p>
 <img src="https://raw.githubusercontent.com/alphaCoder-69/a-simple-theme/master/Light-mode.jpg">
-<h4>Developed by yours truly <strong>alphaCoder-69</strong></h4>
+<h4>Developed by yours truly <div style="color:blue">alphaCoder-69</div></h4>
